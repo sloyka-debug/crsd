@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  regfunc.cpp
+  scan.cpp
+c:\users\sloyka\documents\vfgkghdfj\vfgkghdfj\vfgkghdfj\scan.cpp(34): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+  c:\users\sloyka\documents\vfgkghdfj\vfgkghdfj\vfgkghdfj\scan.cpp(34): note: рекомендуется использовать "%zd" в строке форматирования
+c:\users\sloyka\documents\vfgkghdfj\vfgkghdfj\vfgkghdfj\scan.cpp(59): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\sloyka\documents\vfgkghdfj\vfgkghdfj\vfgkghdfj\scan.cpp(23): warning C4101: line: неиспользованная локальная переменная
+c:\users\sloyka\documents\vfgkghdfj\vfgkghdfj\vfgkghdfj\scan.cpp(6): warning C4101: file_of_hosts: неиспользованная локальная переменная
+c:\users\sloyka\documents\vfgkghdfj\vfgkghdfj\vfgkghdfj\scan.cpp(7): warning C4101: file_exclude_hosts: неиспользованная локальная переменная
+c:\users\sloyka\documents\vfgkghdfj\vfgkghdfj\vfgkghdfj\scan.cpp(22): warning C4101: outputfilename: неиспользованная локальная переменная
+c:\users\sloyka\documents\vfgkghdfj\vfgkghdfj\vfgkghdfj\scan.cpp(24): warning C4101: tmphost: неиспользованная локальная переменная
+  vfgkghdfj.cpp
+  Создание кода
+  155 of 159 functions (97.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  vfgkghdfj.vcxproj -> C:\Users\Sloyka\Documents\vfgkghdfj\vfgkghdfj\x64\Release\vfgkghdfj.exe
