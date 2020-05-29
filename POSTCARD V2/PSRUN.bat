@@ -1,0 +1,1 @@
+for /F %%i in (ADR.txt) do start cmd /K "C:\Windows\System32\PSTools\psexec -c \\%%i INSTAL.bat"

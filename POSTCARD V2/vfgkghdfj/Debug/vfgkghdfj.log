@@ -1,0 +1,203 @@
+﻿  vfgkghdfj.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(103): warning C4005: AF_IPX: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(457): note: см. предыдущее определение "AF_IPX"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(147): warning C4005: AF_MAX: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(476): note: см. предыдущее определение "AF_MAX"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(185): warning C4005: SO_DONTLINGER: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(399): note: см. предыдущее определение "SO_DONTLINGER"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(235): error C2011: sockaddr: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(1007): note:  см. объявление "sockaddr"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(437): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(437): error C3805: константа: непредвиденная лексема, требуется либо "}", либо ","
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(572): warning C4005: IN_CLASSA: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(284): note: см. предыдущее определение "IN_CLASSA"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(578): warning C4005: IN_CLASSB: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(290): note: см. предыдущее определение "IN_CLASSB"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(584): warning C4005: IN_CLASSC: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(296): note: см. предыдущее определение "IN_CLASSC"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(595): warning C4005: INADDR_ANY: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(301): note: см. предыдущее определение "INADDR_ANY"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(597): warning C4005: INADDR_BROADCAST: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(303): note: см. предыдущее определение "INADDR_BROADCAST"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2def.h(633): error C2011: sockaddr_in: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(1011): note:  см. объявление "sockaddr_in"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(136): error C2011: fd_set: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(1019): note:  см. объявление "fd_set"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(156): warning C4005: FD_CLR: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(94): note: см. предыдущее определение "FD_CLR"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(171): warning C4005: FD_SET: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(99): note: см. предыдущее определение "FD_SET"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(180): error C2011: timeval: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(1035): note:  см. объявление "timeval"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(236): error C2011: hostent: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(1023): note:  см. объявление "hostent"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(249): error C2011: netent: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(177): note:  см. объявление "netent"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(256): error C2011: servent: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(1027): note:  см. объявление "servent"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(268): error C2011: protoent: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(1031): note:  см. объявление "protoent"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(364): error C2011: WSAData: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(319): note:  см. объявление "WSAData"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(462): error C2011: sockproto: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(491): note:  см. объявление "sockproto"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(504): error C2011: linger: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(1015): note:  см. объявление "linger"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(517): warning C4005: SOMAXCONN: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(541): note: см. предыдущее определение "SOMAXCONN"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(552): warning C4005: FD_READ: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(559): note: см. предыдущее определение "FD_READ"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(555): warning C4005: FD_WRITE: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(560): note: см. предыдущее определение "FD_WRITE"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(558): warning C4005: FD_OOB: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(561): note: см. предыдущее определение "FD_OOB"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(561): warning C4005: FD_ACCEPT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(562): note: см. предыдущее определение "FD_ACCEPT"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(564): warning C4005: FD_CONNECT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(563): note: см. предыдущее определение "FD_CONNECT"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(567): warning C4005: FD_CLOSE: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(564): note: см. предыдущее определение "FD_CLOSE"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1625): error C2375: accept: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(739): note:  см. объявление "accept"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1647): error C2375: bind: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(744): note:  см. объявление "bind"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1668): error C2375: closesocket: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(749): note:  см. объявление "closesocket"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1685): error C2375: connect: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(751): note:  см. объявление "connect"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1706): error C2375: ioctlsocket: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(756): note:  см. объявление "ioctlsocket"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1729): error C2375: getpeername: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(761): note:  см. объявление "getpeername"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1750): error C2375: getsockname: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(766): note:  см. объявление "getsockname"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1771): error C2375: getsockopt: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(771): note:  см. объявление "getsockopt"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1796): error C2375: htonl: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(778): note:  см. объявление "htonl"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1813): error C2375: htons: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(780): note:  см. объявление "htons"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): error C2375: inet_addr: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(782): note:  см. объявление "inet_addr"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1849): error C2375: inet_ntoa: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(784): note:  см. объявление "inet_ntoa"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1949): error C2375: listen: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(786): note:  см. объявление "listen"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1968): error C2375: ntohl: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(790): note:  см. объявление "ntohl"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1985): error C2375: ntohs: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(792): note:  см. объявление "ntohs"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2002): error C2375: recv: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(794): note:  см. объявление "recv"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2025): error C2375: recvfrom: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(800): note:  см. объявление "recvfrom"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2052): error C2375: select: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(808): note:  см. объявление "select"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2077): error C2375: send: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(815): note:  см. объявление "send"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2100): error C2375: sendto: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(821): note:  см. объявление "sendto"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2127): error C2375: setsockopt: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(829): note:  см. объявление "setsockopt"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2152): error C2375: shutdown: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(836): note:  см. объявление "shutdown"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2172): error C2375: socket: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(840): note:  см. объявление "socket"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2197): error C2375: gethostbyaddr: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(847): note:  см. объявление "gethostbyaddr"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2219): error C2375: gethostbyname: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(852): note:  см. объявление "gethostbyname"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2236): error C2375: gethostname: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(854): note:  см. объявление "gethostname"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2276): error C2375: getservbyport: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(858): note:  см. объявление "getservbyport"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2295): error C2375: getservbyname: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(862): note:  см. объявление "getservbyname"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2314): error C2375: getprotobynumber: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(866): note:  см. объявление "getprotobynumber"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2331): error C2375: getprotobyname: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(868): note:  см. объявление "getprotobyname"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2351): error C2375: WSAStartup: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(872): note:  см. объявление "WSAStartup"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2371): error C2375: WSACleanup: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(876): note:  см. объявление "WSACleanup"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2388): error C2375: WSASetLastError: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(878): note:  см. объявление "WSASetLastError"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2405): error C2375: WSAGetLastError: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(880): note:  см. объявление "WSAGetLastError"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2426): error C2375: WSAIsBlocking: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(882): note:  см. объявление "WSAIsBlocking"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2444): error C2375: WSAUnhookBlockingHook: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(884): note:  см. объявление "WSAUnhookBlockingHook"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2462): error C2375: WSASetBlockingHook: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(886): note:  см. объявление "WSASetBlockingHook"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2480): error C2375: WSACancelBlockingCall: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(888): note:  см. объявление "WSACancelBlockingCall"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2498): error C2375: WSAAsyncGetServByName: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(890): note:  см. объявление "WSAAsyncGetServByName"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2526): error C2375: WSAAsyncGetServByPort: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(898): note:  см. объявление "WSAAsyncGetServByPort"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2554): error C2375: WSAAsyncGetProtoByName: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(906): note:  см. объявление "WSAAsyncGetProtoByName"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2580): error C2375: WSAAsyncGetProtoByNumber: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(913): note:  см. объявление "WSAAsyncGetProtoByNumber"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2606): error C2375: WSAAsyncGetHostByName: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(920): note:  см. объявление "WSAAsyncGetHostByName"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2632): error C2375: WSAAsyncGetHostByAddr: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(927): note:  см. объявление "WSAAsyncGetHostByAddr"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2662): error C2375: WSACancelAsyncRequest: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(936): note:  см. объявление "WSACancelAsyncRequest"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(2680): error C2375: WSAAsyncSelect: переопределение; другая компоновка
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(938): note:  см. объявление "WSAAsyncSelect"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(80): error C2079: "sockaddr_gen::Address" использует не имеющую определения структуру struct "sockaddr"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(81): error C2079: "sockaddr_gen::AddressIn" использует не имеющую определения структуру struct "sockaddr_in"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(135): warning C4005: IP_TOS: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(349): note: см. предыдущее определение "IP_TOS"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(136): warning C4005: IP_TTL: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(348): note: см. предыдущее определение "IP_TTL"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(137): warning C4005: IP_MULTICAST_IF: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(343): note: см. предыдущее определение "IP_MULTICAST_IF"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(138): warning C4005: IP_MULTICAST_TTL: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(344): note: см. предыдущее определение "IP_MULTICAST_TTL"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(139): warning C4005: IP_MULTICAST_LOOP: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(345): note: см. предыдущее определение "IP_MULTICAST_LOOP"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(140): warning C4005: IP_ADD_MEMBERSHIP: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(346): note: см. предыдущее определение "IP_ADD_MEMBERSHIP"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(141): warning C4005: IP_DROP_MEMBERSHIP: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(347): note: см. предыдущее определение "IP_DROP_MEMBERSHIP"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(142): warning C4005: IP_DONTFRAGMENT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(350): note: см. предыдущее определение "IP_DONTFRAGMENT"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(222): error C2079: "_SOCKADDR_INET::Ipv4" использует не имеющую определения структуру struct "sockaddr_in"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\ws2ipdef.h(738): error C2011: ip_mreq: переопределение типа "struct"
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock.h(360): note:  см. объявление "ip_mreq"
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ws2tcpip.h(744): error C2065: WSASetLastError: необъявленный идентификатор
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ws2tcpip.h(751): error C2065: WSASetLastError: необъявленный идентификатор
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ws2tcpip.h(790): error C2065: WSASetLastError: необъявленный идентификатор
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ws2tcpip.h(797): error C2065: WSASetLastError: необъявленный идентификатор
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ws2tcpip.h(841): error C2065: WSASetLastError: необъявленный идентификатор
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ws2tcpip.h(848): error C2065: WSASetLastError: необъявленный идентификатор
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ws2tcpip.h(889): error C2065: WSASetLastError: необъявленный идентификатор
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ws2tcpip.h(896): error C2065: WSASetLastError: необъявленный идентификатор
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(116): error C2535: void SCAN::netview_enum(std::vector<std::wstring,std::allocator<_Ty>> &,wchar_t *): функция-член уже определена или объявлена
+          with
+          [
+              _Ty=std::wstring
+          ]
+  c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(35): note:  см. объявление "SCAN::netview_enum"
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(167): error C2535: void SCAN::net_enum(wchar_t *,wchar_t *): функция-член уже определена или объявлена
+  c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(36): note:  см. объявление "SCAN::net_enum"
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(218): error C2535: void SCAN::ip_enum(wchar_t *): функция-член уже определена или объявлена
+  c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(37): note:  см. объявление "SCAN::ip_enum"
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(97): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(65): error C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(395): note:  см. объявление "setbuf"
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(220): error C2079: "wsaData" использует не имеющую определения структуру struct "WSAData"
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(242): error C2065: WSAStartup: необъявленный идентификатор
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(242): error C2568: =: не удается разрешить перегрузку функции
+  c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(242): note: может быть "int WSAStartup(WORD,LPWSADATA)"
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(270): error C2065: WSACleanup: необъявленный идентификатор
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(280): warning C4473: "wprintf": передано недостаточно аргументов для строки формата
+  c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(280): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+  c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(280): note: отсутствующий вариативный аргумент "1" требуется для строки форматирования "%ls"
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(285): error C2065: WSAGetLastError: необъявленный идентификатор
+c:\users\sloyka\desktop\курскач\vfgkghdfj\vfgkghdfj\vfgkghdfj.cpp(311): error C2065: WSACleanup: необъявленный идентификатор
